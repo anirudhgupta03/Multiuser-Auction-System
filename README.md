@@ -1,7 +1,6 @@
 # Multiuser Auction System
 
-## Aim: This project is aimed at developing an attractive multi-user Auction System desktop application 
-which would allow users to participate in an auction both as sellers and buyers. The application handles auctions running in parallel. 
+## Aim: This project is aimed at developing an attractive multi-user Auction System desktop application which would allow users to participate in an auction both as sellers and buyers. The application handles auctions running in parallel. 
 
 ## TechStack: DBMS, XAMPP, SQL, PHP
 
@@ -50,7 +49,7 @@ Next, you need to check the components which you want to install and can uncheck
 
 Now you need to choose the folder where you want to install the XAMPP. You can choose the default location or you can choose any location of your choice and choose the ‘Next’ button to move ahead.
 
-![alt text](https://github.com/anirudhgupta03/Multiuser-Auction-System/blob/main/Instruction%20Manual/s4.jpg?raw=true)
+![alt text](https://github.com/anirudhgupta03/Multiuser-Auction-System/blob/main/Instruction%20Manual/s4.png?raw=true)
 
 Bitnami for XAMPP
 
