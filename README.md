@@ -49,7 +49,7 @@ Next, you need to check the components which you want to install and can uncheck
 
 Now you need to choose the folder where you want to install the XAMPP. You can choose the default location or you can choose any location of your choice and choose the ‘Next’ button to move ahead.
 
-![alt text](https://github.com/anirudhgupta03/Multiuser-Auction-System/blob/main/Instruction%20Manual/s4.png?raw=true)
+![alt text](https://github.com/anirudhgupta03/Multiuser-Auction-System/blob/main/Instruction%20Manual/s4.jpg?raw=true)
 
 Bitnami for XAMPP
 
