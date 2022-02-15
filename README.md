@@ -120,7 +120,7 @@ Then again restart XAMPP control panel. It should resolve the issue.
 
 
 
-### Task 3 : How to run Multiuser-Online-Auction-System
+### Task 3 : How to run Multiuser Auction System
 
 #### Step 1 : Add source code folder in htdocs folder
 
